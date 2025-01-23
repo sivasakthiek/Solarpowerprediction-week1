@@ -77,7 +77,7 @@ INSTALLATION
 
 1. CLONE THIS REPOSITORY:
 
-git clone https://github.com/your-repo-name/solar-power-prediction.git
+git clone https://github.com/sivasakthiek/Solarpowerprediction-week1/
 cd solar-power-prediction
 
 
